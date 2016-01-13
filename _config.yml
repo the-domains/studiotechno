@@ -1,0 +1,28 @@
+name: StudioTechno
+favicon: null
+layout_spectrum: 0.01657520793378353
+typography_spectrum: 0.9095052925404161
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3003413521219045
+  lightness: 0.3434821041300893
+  saturation: 0.40867431461811066
+  rhythmicContrast: 0.5561925915535539
+purpose: []
