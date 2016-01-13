@@ -1,7 +1,7 @@
 name: StudioTechno
 favicon: null
-layout_spectrum: 0.01657520793378353
-typography_spectrum: 0.9095052925404161
+layout_spectrum: 0
+typography_spectrum: 0.14224
 cta:
   domain: null
   bucket: null
